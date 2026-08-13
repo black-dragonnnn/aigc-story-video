@@ -1,0 +1,19 @@
+# Python虚拟环境
+venv/
+.venv/
+env/
+
+# PyCharm配置文件夹
+.idea/
+
+# 环境密钥文件（防止账号密码泄露）
+.env
+
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 日志
+*.log
